@@ -165,7 +165,7 @@ if __name__ == "__main__":
         port = int(sys.argv[0])
     else:
         if len(sys.argv) > 2:
-            print("Only a single parameter is supported: the port number.")
+            print("Only a single parameter is supported: the port number")
             print("Default port: ", port)
             exit(1)
 
