@@ -1,0 +1,16 @@
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\obj\Debug\net5.0\PortForwarderAndPrinter.csprojAssemblyReference.cache
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\obj\Debug\net5.0\PortForwarderAndPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\obj\Debug\net5.0\PortForwarderAndPrinter.AssemblyInfoInputs.cache
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\obj\Debug\net5.0\PortForwarderAndPrinter.AssemblyInfo.cs
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\obj\Debug\net5.0\PortForwarderAndPrinter.csproj.CoreCompileInputs.cache
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\bin\Debug\net5.0\PortForwarderAndPrinter.exe
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\bin\Debug\net5.0\PortForwarderAndPrinter.deps.json
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\bin\Debug\net5.0\PortForwarderAndPrinter.runtimeconfig.json
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\bin\Debug\net5.0\PortForwarderAndPrinter.runtimeconfig.dev.json
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\bin\Debug\net5.0\PortForwarderAndPrinter.dll
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\bin\Debug\net5.0\ref\PortForwarderAndPrinter.dll
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\bin\Debug\net5.0\PortForwarderAndPrinter.pdb
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\obj\Debug\net5.0\PortForwarderAndPrinter.dll
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\obj\Debug\net5.0\ref\PortForwarderAndPrinter.dll
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\obj\Debug\net5.0\PortForwarderAndPrinter.pdb
+C:\Source\Repos\odbc\dotnet\PortForwarderAndPrinter\obj\Debug\net5.0\PortForwarderAndPrinter.genruntimeconfig.cache

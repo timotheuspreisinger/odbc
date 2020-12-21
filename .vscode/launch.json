@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {"name":"Python: Debug Current File","type":"python","request":"launch","program":"${file}","console":"integratedTerminal"},
+        {"name":"Python: Debug psql-server.py","type":"python","request":"launch","program":"${workspaceFolder}/python/psql-server.py","console":"integratedTerminal"},
+        {
+            "name": "PostgresWireProtocolServer",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/dotnet/PostgresWireProtocolServer/bin/Debug/net5.0/PostgresWireProtocolServer.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Port Forwarder",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-portforwarder",
+            "program": "${workspaceFolder}/dotnet/PortForwarderAndPrinter/bin/Debug/net5.0/PortForwarderAndPrinter.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach",
+            "processId": "${command:pickProcess}"
+        }
+    ]
+}

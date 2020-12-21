@@ -77,6 +77,12 @@ class Handler(socketserver.BaseRequestHandler):
             dr_header = struct.pack(DRHEADER, b'D', struct.calcsize(DRHEADER) - 1 + len(dr_columns), len(row))
             dr = dr_header + dr_columns
             self.send_to_socket(dr)
+        
+        # add a "null" row
+        dr_data = struct.pack("!ii", -1, -1)
+        dr_header = struct.pack(DRHEADER, b'D', struct.calcsize(DRHEADER) - 1 + len(dr_data), 2)
+        dr = dr_header + dr_data
+        self.send_to_socket(dr)
 
         self.send_CommandComplete()
 

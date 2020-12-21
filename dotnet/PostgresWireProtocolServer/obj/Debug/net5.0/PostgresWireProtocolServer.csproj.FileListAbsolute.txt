@@ -1,0 +1,16 @@
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\bin\Debug\net5.0\PostgresWireProtocolServer.exe
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\bin\Debug\net5.0\PostgresWireProtocolServer.deps.json
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\bin\Debug\net5.0\PostgresWireProtocolServer.runtimeconfig.json
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\bin\Debug\net5.0\PostgresWireProtocolServer.runtimeconfig.dev.json
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\bin\Debug\net5.0\PostgresWireProtocolServer.dll
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\bin\Debug\net5.0\ref\PostgresWireProtocolServer.dll
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\bin\Debug\net5.0\PostgresWireProtocolServer.pdb
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\obj\Debug\net5.0\PostgresWireProtocolServer.csprojAssemblyReference.cache
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\obj\Debug\net5.0\PostgresWireProtocolServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\obj\Debug\net5.0\PostgresWireProtocolServer.AssemblyInfoInputs.cache
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\obj\Debug\net5.0\PostgresWireProtocolServer.AssemblyInfo.cs
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\obj\Debug\net5.0\PostgresWireProtocolServer.csproj.CoreCompileInputs.cache
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\obj\Debug\net5.0\PostgresWireProtocolServer.dll
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\obj\Debug\net5.0\ref\PostgresWireProtocolServer.dll
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\obj\Debug\net5.0\PostgresWireProtocolServer.pdb
+C:\Source\Repos\odbc\dotnet\PostgresWireProtocolServer\obj\Debug\net5.0\PostgresWireProtocolServer.genruntimeconfig.cache
